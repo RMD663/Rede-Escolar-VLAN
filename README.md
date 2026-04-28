@@ -2,6 +2,8 @@
 
 Projeto de simulação de rede desenvolvido para a disciplina de Tópicos Especiais em Redes de Computadores. O foco é a segmentação lógica de departamentos e roteamento inter-VLAN.
 
+![Topologia da Rede](print_trabalho.png)
+
 ##  Configurações
 A rede utiliza a técnica **Router-on-a-Stick** para permitir que as sub-redes de Alunos e Professores se comuniquem através de um único roteador.
 
